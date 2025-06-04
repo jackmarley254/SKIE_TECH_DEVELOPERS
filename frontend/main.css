@@ -1,7 +1,11 @@
-h1 {
+h2 {
     color: blue;
     font-size: 2em;
     }
+h3 {
+    color: red;
+    font-size: 1.5em;
+    }
     p {
     color: green;
-    f
+    }
