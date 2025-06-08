@@ -1,1 +1,0 @@
-All projects under development will be hosted here.
